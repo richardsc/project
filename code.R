@@ -10,6 +10,6 @@ write.csv(data2,"data.txt")
 
 png("testing.png")
 
-plot(1:10)
+plot(1:100)
 
 dev.off()
